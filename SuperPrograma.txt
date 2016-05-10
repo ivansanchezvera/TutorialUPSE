@@ -1,4 +1,8 @@
 Codigo Java jajaja
 JAVAliste!
 public static void main(string[] args){
+	
+	whatever cualquiera = new whatever();
 }
+
+Estamos en clase de git =O
