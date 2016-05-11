@@ -1,8 +1,9 @@
-Codigo Java jajaja
-JAVAliste!
+//Codigo Java jajaja
+//JAVAliste!
 public static void main(string[] args){
-	
+	//Codigo d eprueba 
 	whatever cualquiera = new whatever();
+System.out.println("Colaborando jajajajaj")
 }
 
 Estamos en clase de git =O
